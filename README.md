@@ -31,9 +31,9 @@
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Arjun13-git&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" alt="Arjun's Top Languages" />
-</div>
+</div> -->
 
 ---
 
