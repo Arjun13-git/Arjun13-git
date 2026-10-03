@@ -1,82 +1,141 @@
 <div align="center">
-  <h1>Hi, I'm Arjun Shenoy R</h1>
-  <h3>CS Engineer | AI/ML & Quantum Enthusiast</h3>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Quantum+ML+Researcher;Backend+Architect;AIML+Enthusiast" alt="Typing SVG" />
+
+# Arjun Shenoy R
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1500&color=22D3EE&center=true&vCenter=true&width=640&lines=AI%2FML+Enthusiast+%C2%B7+Software+Engineering+%C2%B7+Research;Building+ML+systems;Exploring+quantum+machine+learning;Experimenting+with+AI+systems;Software+%2B+research" alt="AI/ML Enthusiast · Software Engineering · Research" />
+
+CS student at Sahyadri College, Mangalore. I build things with ML and software,<br/>
+chase research ideas that are probably too ambitious, and spend way too much time in a terminal.
+
+</div>
+
+```text
+lately      →  CardioMamba · StegoShield · KaamSetu · Amazon ML Challenge
+exploring   →  state-space models · quantum ML · LLM agents & guardrails
+previously  →  Software Engineering Intern @ Datavex.ai
+off-duty    →  🎮  📚  🎵
+```
+
+---
+
+## Things I've been building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🫀 [CardioMamba](https://github.com/Arjun13-git/CardioMamba)
+Bidirectional Mamba (selective state-space) model for multi-label classification of 12-lead ECGs from PTB-XL, with an inference API and a small research demo.
+
+<sub>`Python` `PyTorch` `FastAPI` `Next.js` `TypeScript`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🖼️ [StegoShield](https://github.com/Arjun13-git/StegoShield)
+Explainable steganalysis tool that estimates whether an image carries LSB-embedded data, using bit-plane statistics and classical ML — and is honest about where it fails.
+
+<sub>`Python` `scikit-learn` `FastAPI` `Next.js` `TypeScript`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔧 [KaamSetu](https://github.com/Arjun13-git/KaamSetu) · [demo](https://kaam-setu-eta.vercel.app/)
+Turns customer messages into structured service jobs for small repair businesses, and keeps a service history for every appliance. Built at WeMakeDevs × AWS First Commit.
+
+<sub>`Python` `FastAPI` `Next.js` `Amazon Bedrock` `DynamoDB` `AWS Lambda`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔗 [Amazon Entity Resolution](https://github.com/Arjun13-git/amazon-entity-resolution)
+My Amazon ML Challenge 2026 pipeline: for each business record in one source, find the records in two other sources that describe the same real-world business.
+
+<sub>`Python` `XGBoost` `Pandas` `scikit-learn` `RapidFuzz`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🪐 [Quantum ML for Exoplanet Detection](https://github.com/Arjun13-git/qml-exoplanet-detection)
+Classical time-series deep learning vs. hybrid quantum neural networks, pitted against each other on exoplanet transits in NASA Kepler and TESS light curves.
+
+<sub>`Python` `PyTorch` `TensorFlow` `PennyLane` `Qiskit`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛡️ [Sentinel Agents](https://github.com/aniprogramer/sentinel-agents)
+Team hackathon build: LLM agents that scan Python code for vulnerabilities, write proof-of-concept exploits, run them in a Docker sandbox and propose patches.
+
+<sub>`Python` `FastAPI` `LangChain`</sub>
+
+</td>
+</tr>
+</table>
+
+<sub>Also in the repos: [PromptGuard](https://github.com/Arjun13-git/PromptGuard) (prompt-injection filtering for LLMs) · [Project Aether](https://github.com/Arjun13-git/Project-Aether) (satellite imagery + YOLOv8)</sub>
+
+---
+
+## Research & experiments
+
+- ⚛️ **Quantum ML for astronomical classification** — a literature survey that set the direction for the experiments below
+- 🌌 **[Hybrid quantum-classical models for galaxy morphology](https://github.com/Arjun13-git/qml-galaxy-classification)** — an attention-based CNN vs. a 4-qubit variational circuit on Galaxy Zoo images
+- 🧠 **[Dyslexia risk prediction](https://github.com/AjithGoveas/mini-project-dyslexia)** — a deep learning screening tool built on LSTM networks
+
+## Currently exploring
+
+🧠 Sequence models beyond Transformers — Mamba and other state-space models<br/>
+⚛️ Quantum machine learning — variational circuits that actually train<br/>
+🤖 LLM agents and the systems around them<br/>
+🛡️ AI security — prompt injection, guardrails, and breaking things on purpose<br/>
+⚙️ Backend plumbing that turns models into usable apps
+
+---
+
+## Toolbox
+
+<div align="center">
+
+<sub>ML & research</sub><br/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark" alt="Python, PyTorch, TensorFlow, scikit-learn, OpenCV" /><br/>
+<sub>+ Qiskit · PennyLane · LangChain</sub>
+
+<br/>
+
+<sub>build & ship</sub><br/>
+<img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,ts,postgres,mongodb,docker,aws,git,linux&theme=dark" alt="FastAPI, Next.js, React, TypeScript, PostgreSQL, MongoDB, Docker, AWS, Git, Linux" />
+
+</div>
+
+## Activity
+
+<div align="center">
+
+<img height="150" src="https://github-readme-stats.shion.dev/api?username=Arjun13-git&show_icons=true&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=22D3EE&text_color=8B95A7&rank_icon=github" alt="Arjun's GitHub stats" />
+<img height="150" src="https://streak-stats.demolab.com?user=Arjun13-git&hide_border=true&background=00000000&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=8B95A7&currStreakNum=8B95A7&sideNums=8B95A7&dates=8B95A7&stroke=8B95A733" alt="Arjun's GitHub streak" />
+
 </div>
 
 ---
 
-### What I'm Up To
-- **I’m currently working on:** An ongoing research project on **Quantum ML on Galaxy Classification and Exoplanet Detection**.
-- **Recent Projects:** Built **SafeHorizon**, **Project Aether**, **Sentinel Agents**, **PromptGuard**, **ZK-SWARM** and an **KYC Platform**.
-- **I’m currently exploring & building with:** **TensorFlow**, **PyTorch**, **Qiskit**, **PennyLane**, **LangChain**, **Langflow**, and **Microsoft SEAL**.
-- **I’m currently grinding:** Advanced problem-solving (DSA), and building scalable **Backend Architectures** and APIs using **FastAPI**, **PostgreSQL**, and **Docker**.
-- **When I'm not coding:** You can find me reading novels, listening to music, or gaming.
+## Away from the terminal
 
----
-
-### Statistical Overview
+I'm probably 🎮 gaming, 📚 halfway through a novel, or 🎵 listening to music — sometimes all three at once.
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Arjun's 3D Isometric Calendar" width="100%" />
-</div>
 
-<br>
+<br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Arjun13-git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" alt="Arjun's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun13-git&theme=tokyonight&hide_border=true&background=0d1117" width="48%" alt="Arjun's Streak Stats" />
-</div>
+<a href="https://github.com/Arjun13-git"><img src="https://img.shields.io/badge/GitHub-0B1220?style=flat-square&logo=github&logoColor=22D3EE" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/arjun-shenoy-r-586546285"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=flat-square&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" /></a>
+<a href="https://arjun-shenoy-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0B1220?style=flat-square&logo=vercel&logoColor=22D3EE" alt="Portfolio" /></a>
+<a href="mailto:ranjalarjunshenoy@gmail.com"><img src="https://img.shields.io/badge/Email-0B1220?style=flat-square&logo=gmail&logoColor=22D3EE" alt="Email" /></a>
 
-<br>
+<sub>thanks for stopping by ✦</sub>
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Arjun13-git&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" alt="Arjun's Top Languages" />
-</div> -->
-
----
-
-### Languages Known
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-### Frameworks, Tools & Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" />
-  <img src="https://img.shields.io/badge/PennyLane-0286FF?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Langflow-FF4F00?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_SEAL-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Backend_Development-4CAF50?style=for-the-badge&logo=server&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/arjun-shenoy-r-586546285">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ranjalarjunshenoy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </div>
